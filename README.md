@@ -1,5 +1,4 @@
-<center><h1>My Blog Website<h1><center>
-<br>
+<h1 style="text-align:center;">My Blog Website<h1>
 
 **<a href="https://mrsnape-blog.herokuapp.com/">Visit Link</a>**
 
