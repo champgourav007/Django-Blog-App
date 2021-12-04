@@ -209,12 +209,3 @@ main {
 #comments li:last-of-type{
   border-bottom: none;
 }
-
-
-#post-image{
-  text-align: center;
-}
-
-#post-image img{
-  margin-left: 2rem;
-}
